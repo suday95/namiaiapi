@@ -1,0 +1,21 @@
+Name: langchain-core
+Version: 0.3.77
+Summary: Building applications with LLMs through composability
+Home-page: 
+Author: 
+Author-email: 
+License: MIT
+Location: /home/suday-nandan-reddy/Desktop/nami/namienv/lib/python3.13/site-packages
+Requires: jsonpatch, langsmith, packaging, pydantic, PyYAML, tenacity, typing-extensions
+Required-by: langgraph, langgraph-checkpoint, langgraph-prebuilt
+---
+Name: langgraph
+Version: 0.6.8
+Summary: Building stateful, multi-actor applications with LLMs
+Home-page: 
+Author: 
+Author-email: 
+License-Expression: MIT
+Location: /home/suday-nandan-reddy/Desktop/nami/namienv/lib/python3.13/site-packages
+Requires: langchain-core, langgraph-checkpoint, langgraph-prebuilt, langgraph-sdk, pydantic, xxhash
+Required-by: 
